@@ -1,6 +1,7 @@
 # Helios Project Template
     I DID NOT MAKE THIS TEMPLATE PROJECT I JUST PUT IT HERE ON GITHUB
  This is a simple unreal project template project, it contains;
+ - Helios SDK
  - A mirror
  - A car
  - UI (template window with button)
