@@ -1,0 +1,15 @@
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Development\RuntimeAudioImporter\Definitions.RuntimeAudioImporter.h
+F:/UE4_Projects/Helios/Helios Template/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/ImportedSoundWave.gen.cpp
+D:\UE4\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE4\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter/Public/ImportedSoundWave.h
+D:\UE4\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\UE4\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\ImportedSoundWave.generated.h
+F:/UE4_Projects/Helios/Helios Template/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/PreimportedSoundAsset.gen.cpp
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter/Public/PreimportedSoundAsset.h
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\PreimportedSoundAsset.generated.h
+F:/UE4_Projects/Helios/Helios Template/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/RuntimeAudioImporter.init.gen.cpp
+F:/UE4_Projects/Helios/Helios Template/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/RuntimeAudioImporterLibrary.gen.cpp
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter/Public/RuntimeAudioImporterLibrary.h
+F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\RuntimeAudioImporterLibrary.generated.h

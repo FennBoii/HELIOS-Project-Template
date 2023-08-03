@@ -1,0 +1,9 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"TobiiCore": "UE4Editor-TobiiCore.dll",
+		"TobiiGTOM": "UE4Editor-TobiiGTOM.dll",
+		"TobiiInteractions": "UE4Editor-TobiiInteractions.dll"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"BuildId": "b5f4ba9a-53ce-455d-b249-a7d61cb672f7",
+	"Modules": 
+	{
+		"TobiiCore": "UE4Editor-TobiiCore-Win64-DebugGame.dll",
+		"TobiiGTOM": "UE4Editor-TobiiGTOM-Win64-DebugGame.dll",
+		"TobiiInteractions": "UE4Editor-TobiiInteractions-Win64-DebugGame.dll"
+	}
+}

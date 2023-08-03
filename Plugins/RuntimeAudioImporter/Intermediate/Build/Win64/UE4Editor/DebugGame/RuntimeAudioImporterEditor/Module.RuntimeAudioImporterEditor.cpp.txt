@@ -1,0 +1,12 @@
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\DebugGame\RuntimeAudioImporterEditor\Definitions.RuntimeAudioImporterEditor.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Source/RuntimeAudioImporterEditor/Private/PreimportedSoundFactory.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporterEditor\Public\PreimportedSoundFactory.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporterEditor\PreimportedSoundFactory.generated.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter\Public\PreimportedSoundAsset.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\PreimportedSoundAsset.generated.h
+F:\UE4_Source\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\ThirdParty/dr_mp3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Source/RuntimeAudioImporterEditor/Private/RuntimeAudioImporterEditor.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporterEditor\Public\RuntimeAudioImporterEditor.h

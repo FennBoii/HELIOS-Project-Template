@@ -1,0 +1,15 @@
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\DebugGame\RuntimeAudioImporter\Definitions.RuntimeAudioImporter.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/ImportedSoundWave.gen.cpp
+F:\UE4_Source\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\UE4_Source\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter/Public/ImportedSoundWave.h
+F:\UE4_Source\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+F:\UE4_Source\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\ImportedSoundWave.generated.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/PreimportedSoundAsset.gen.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter/Public/PreimportedSoundAsset.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\PreimportedSoundAsset.generated.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/RuntimeAudioImporter.init.gen.cpp
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Intermediate/Build/Win64/UE4Editor/Inc/RuntimeAudioImporter/RuntimeAudioImporterLibrary.gen.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter/Public/RuntimeAudioImporterLibrary.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\RuntimeAudioImporterLibrary.generated.h

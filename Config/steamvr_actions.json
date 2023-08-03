@@ -1,0 +1,206 @@
+{
+	"default_bindings": [
+		{
+			"controller_type": "vive",
+			"binding_url": "V:/mordentral-vrexppluginexample-6d81ff826720/Config/SteamVRBindings/vive.json"
+		},
+		{
+			"controller_type": "vive_controller",
+			"binding_url": "V:/mordentral-vrexppluginexample-6d81ff826720/Config/SteamVRBindings/vive_controller.json"
+		},
+		{
+			"controller_type": "oculus_touch",
+			"binding_url": "V:/mordentral-vrexppluginexample-6d81ff826720/Config/SteamVRBindings/oculus_touch.json"
+		},
+		{
+			"controller_type": "holographic_controller",
+			"binding_url": "V:/mordentral-vrexppluginexample-6d81ff826720/Config/SteamVRBindings/holographic_controller.json"
+		},
+		{
+			"controller_type": "gamepad",
+			"binding_url": "V:/mordentral-vrexppluginexample-6d81ff826720/Config/SteamVRBindings/gamepad.json"
+		}
+	],
+	"actions": [
+		{
+			"name": "/actions/main/in/Jump",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TeleportRight",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/HMDTeleport",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/SideGripPressedR",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/SideGripPressedL",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/GrabLeft",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/GrabRight",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TeleportLeft",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/LaserBeamLeft",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/LaserBeamRight",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MoveForward_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MoveRight_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TurnRate_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/LookUp_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/Turn_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TurnLookUp_axis2d",
+			"type": "vector2",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TeleportDirectionUp_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TeleportDirectionRight_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TeleportDirectionRightUp_axis2d",
+			"type": "vector2",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbLeft_Y_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbLeft_X_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbLeft_X_Y_axis2d",
+			"type": "vector2",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbRight_Y_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbRight_X_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbRight_X_Y_axis2d",
+			"type": "vector2",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/ControllerMovementLeft_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/ControllerMovementRight_axis",
+			"type": "vector1",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/open_console",
+			"type": "boolean",
+			"requirement": "optional"
+		}
+	],
+	"action_sets": [
+		{
+			"name": "/actions/main",
+			"usage": "leftright"
+		}
+	],
+	"localization": [
+		{
+			"/actions/main/in/Jump": "Jump",
+			"/actions/main/in/TeleportRight": "TeleportRight",
+			"/actions/main/in/HMDTeleport": "HMDTeleport",
+			"/actions/main/in/SideGripPressedR": "SideGripPressedR",
+			"/actions/main/in/SideGripPressedL": "SideGripPressedL",
+			"/actions/main/in/GrabLeft": "GrabLeft",
+			"/actions/main/in/GrabRight": "GrabRight",
+			"/actions/main/in/TeleportLeft": "TeleportLeft",
+			"/actions/main/in/LaserBeamLeft": "LaserBeamLeft",
+			"/actions/main/in/LaserBeamRight": "LaserBeamRight",
+			"/actions/main/in/MoveForward_axis": "MoveForward",
+			"/actions/main/in/MoveRight_axis": "MoveRight",
+			"/actions/main/in/TurnRate_axis": "TurnRate",
+			"/actions/main/in/LookUp_axis": "LookUp",
+			"/actions/main/in/Turn_axis": "Turn",
+			"/actions/main/in/TurnLookUp_axis2d": "TurnLookUp",
+			"/actions/main/in/TeleportDirectionUp_axis": "TeleportDirectionUp",
+			"/actions/main/in/TeleportDirectionRight_axis": "TeleportDirectionRight",
+			"/actions/main/in/TeleportDirectionRightUp_axis2d": "TeleportDirectionRightUp",
+			"/actions/main/in/MotionControllerThumbLeft_Y_axis": "MotionControllerThumbLeft_Y",
+			"/actions/main/in/MotionControllerThumbLeft_X_axis": "MotionControllerThumbLeft_X",
+			"/actions/main/in/MotionControllerThumbLeft_X_Y_axis2d": "MotionControllerThumbLeft_X_Y",
+			"/actions/main/in/MotionControllerThumbRight_Y_axis": "MotionControllerThumbRight_Y",
+			"/actions/main/in/MotionControllerThumbRight_X_axis": "MotionControllerThumbRight_X",
+			"/actions/main/in/MotionControllerThumbRight_X_Y_axis2d": "MotionControllerThumbRight_X_Y",
+			"/actions/main/in/ControllerMovementLeft_axis": "ControllerMovementLeft",
+			"/actions/main/in/ControllerMovementRight_axis": "ControllerMovementRight",
+			"/actions/main/in/open_console": "Open Console",
+			"/actions/main": "Main Game Actions",
+			"language_tag": "en"
+		}
+	]
+}

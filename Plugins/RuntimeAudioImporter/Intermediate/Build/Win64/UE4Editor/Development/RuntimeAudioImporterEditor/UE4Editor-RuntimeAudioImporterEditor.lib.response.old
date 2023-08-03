@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RuntimeAudioImporterEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE4_Projects\Helios\Helios Template\Intermediate\Build\Win64\HeliosEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Development\RuntimeAudioImporterEditor\Module.RuntimeAudioImporterEditor.cpp.obj"
+"F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Development\RuntimeAudioImporterEditor\Module.RuntimeAudioImporterEditor.gen.cpp.obj"
+"F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Development\RuntimeAudioImporterEditor\Default.rc2.res"
+/OUT:"F:\UE4_Projects\Helios\Helios Template\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Development\RuntimeAudioImporterEditor\UE4Editor-RuntimeAudioImporterEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_RuntimeAudioImporterEditor

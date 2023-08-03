@@ -1,0 +1,249 @@
+{
+  "name": "Default bindings for Vive Trackers",
+  "controller_type": "vive_tracker_waist",
+  "last_edited_by": "UnrealEngine",
+  "bindings": {
+    "/actions/main": {
+      "sources": [
+        {
+          "mode": "trigger",
+          "path": "/user/hand/left/input/trigger",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/TriggerLeft"
+            }
+          }
+        },
+        {
+          "mode": "trigger",
+          "path": "/user/hand/right/input/trigger",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/TriggerRight"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/left/input/trackpad",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/Jump"
+            }
+          }
+        },
+        {
+          "mode": "button",
+          "path": "/user/hand/left/input/application_menu",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/MenuLeft"
+            }
+          }
+        },
+        {
+          "mode": "button",
+          "path": "/user/hand/right/input/application_menu",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/MenuRight"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/left/input/trackpad",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/LThumbStickClick"
+            }
+          }
+        },
+        {
+          "mode": "dpad",
+          "path": "/user/hand/left/input/trackpad",
+          "parameters": {
+            "sub_mode": "click"
+          },
+          "inputs": {
+            "south": {
+              "output": "/actions/main/in/ControllerLeftLowerButton"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/right/input/trackpad",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/RThumbStickClick"
+            }
+          }
+        },
+        {
+          "mode": "button",
+          "path": "/user/hand/left/input/grip",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/LSideGrip"
+            }
+          }
+        },
+        {
+          "mode": "button",
+          "path": "/user/hand/right/input/grip",
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/RSideGrip"
+            }
+          }
+        },
+        {
+          "mode": "dpad",
+          "path": "/user/hand/right/input/trackpad",
+          "parameters": {
+            "sub_mode": "click"
+          },
+          "inputs": {
+            "south": {
+              "output": "/actions/main/in/ControllerRightLowerButton"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/left/input/trackpad",
+          "inputs": {
+            "position": {
+              "output": "/actions/main/in/MoveLeft_X,MoveLeft_Y X Y_axis2d"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/right/input/trackpad",
+          "inputs": {
+            "position": {
+              "output": "/actions/main/in/MoveRight_X,MoveRight_Y X Y_axis2d"
+            }
+          }
+        },
+        {
+          "mode": "scalar_constant",
+          "path": "/user/hand/left/input/trigger",
+          "inputs": {
+            "value": {
+              "output": "/actions/main/in/SqueezeLeft axis"
+            }
+          }
+        },
+        {
+          "mode": "scalar_constant",
+          "path": "/user/hand/right/input/trigger",
+          "inputs": {
+            "value": {
+              "output": "/actions/main/in/SqueezeRight axis"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/left/input/trackpad",
+          "inputs": {
+            "touch": {
+              "output": "/actions/main/in/LThumbStickCapTouch axis"
+            }
+          }
+        },
+        {
+          "mode": "trackpad",
+          "path": "/user/hand/right/input/trackpad",
+          "inputs": {
+            "touch": {
+              "output": "/actions/main/in/RThumbStickCapTouch axis"
+            }
+          }
+        },
+        {
+          "mode": "trigger",
+          "path": "/user/hand/left/input/trigger",
+          "inputs": {
+            "pull": {
+              "output": "/actions/main/in/LTrigger axis"
+            }
+          }
+        },
+        {
+          "mode": "trigger",
+          "path": "/user/hand/right/input/trigger",
+          "inputs": {
+            "pull": {
+              "output": "/actions/main/in/RTrigger axis"
+            }
+          }
+        },
+        {
+          "mode": "scalar_constant",
+          "path": "/user/hand/left/input/grip",
+          "inputs": {
+            "value": {
+              "output": "/actions/main/in/LGripAxis axis"
+            }
+          }
+        },
+        {
+          "mode": "scalar_constant",
+          "path": "/user/hand/right/input/grip",
+          "inputs": {
+            "value": {
+              "output": "/actions/main/in/RGripAxis axis"
+            }
+          }
+        }
+      ],
+      "poses": [
+        {
+          "output": "/actions/main/in/special1",
+          "path": "/user/hand/left/pose/back",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special2",
+          "path": "/user/hand/right/pose/back",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special3",
+          "path": "/user/hand/left/pose/front",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special4",
+          "path": "/user/hand/right/pose/front",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special5",
+          "path": "/user/hand/left/pose/frontandrolled",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special6",
+          "path": "/user/hand/right/pose/frontandrolled",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special7",
+          "path": "/user/hand/left/pose/pistolgrip",
+          "requirement": "optional"
+        },
+        {
+          "output": "/actions/main/in/special8",
+          "path": "/user/hand/right/pose/pistolgrip",
+          "requirement": "optional"
+        }
+      ]
+    }
+  },
+  "description": "Helios-11590370"
+}

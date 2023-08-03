@@ -1,0 +1,10 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"Helios": "UE4Editor-Helios.dll",
+		"HeliosEditor": "UE4Editor-HeliosEditor.dll",
+		"HeliosObjects": "UE4Editor-HeliosObjects.dll",
+		"HeliosREGH": "UE4Editor-HeliosREGH.dll"
+	}
+}

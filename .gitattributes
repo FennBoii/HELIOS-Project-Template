@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Binaries/Win64/Helios.exe filter=lfs diff=lfs merge=lfs -text
+Intermediate/Build/Win64/HeliosEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch filter=lfs diff=lfs merge=lfs
+Intermediate/Build/Win64/HeliosEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h.pch filter=lfs diff=lfs merge=lfs

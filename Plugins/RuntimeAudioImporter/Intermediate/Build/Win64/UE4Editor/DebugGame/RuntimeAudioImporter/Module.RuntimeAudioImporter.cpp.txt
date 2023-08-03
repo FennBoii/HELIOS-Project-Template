@@ -1,0 +1,21 @@
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\DebugGame\RuntimeAudioImporter\Definitions.RuntimeAudioImporter.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Source/RuntimeAudioImporter/Private/ImportedSoundWave.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter\Public\ImportedSoundWave.h
+F:\UE4_Source\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+F:\UE4_Source\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\ImportedSoundWave.generated.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Source/RuntimeAudioImporter/Private/PreimportedSoundAsset.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter\Public\PreimportedSoundAsset.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\PreimportedSoundAsset.generated.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Source/RuntimeAudioImporter/Private/RuntimeAudioImporter.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter\Public\RuntimeAudioImporter.h
+F:/UE4_Projects/Helios/Helios/Plugins/RuntimeAudioImporter/Source/RuntimeAudioImporter/Private/RuntimeAudioImporterLibrary.cpp
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\RuntimeAudioImporter\Public\RuntimeAudioImporterLibrary.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\Inc\RuntimeAudioImporter\RuntimeAudioImporterLibrary.generated.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\ThirdParty/dr_wav.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\ThirdParty/dr_mp3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Source\ThirdParty/dr_flac.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h

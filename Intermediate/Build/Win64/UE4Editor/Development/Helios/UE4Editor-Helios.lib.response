@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Helios.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Y:\UnrealInstalls\Projects\templateForHelios - Copy\Intermediate\Build\Win64\HeliosEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Y:\UnrealInstalls\Projects\templateForHelios - Copy\Intermediate\Build\Win64\UE4Editor\Development\Helios\Default.rc2.res"
+/OUT:"Y:\UnrealInstalls\Projects\templateForHelios - Copy\Intermediate\Build\Win64\UE4Editor\Development\Helios\UE4Editor-Helios.lib"
+/INCLUDE:IMPLEMENT_MODULE_Helios

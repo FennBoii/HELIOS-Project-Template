@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FastNoise-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Y:\UnrealInstalls\Projects\templateForHelios - Copy\Intermediate\Build\Win64\HeliosEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Y:\UnrealInstalls\Projects\templateForHelios - Copy\Plugins\FastNoiseGenerator\Intermediate\Build\Win64\UE4Editor\Development\FastNoise\Default.rc2.res"
+/OUT:"Y:\UnrealInstalls\Projects\templateForHelios - Copy\Plugins\FastNoiseGenerator\Intermediate\Build\Win64\UE4Editor\Development\FastNoise\UE4Editor-FastNoise-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_FastNoise

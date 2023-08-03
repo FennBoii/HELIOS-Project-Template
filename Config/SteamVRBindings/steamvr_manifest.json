@@ -1,0 +1,358 @@
+{
+	"actions": [
+		{
+			"name": "/actions/main/in/controllerleft",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/controllerright",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special1",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special2",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special3",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special4",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special5",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special6",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special7",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/special8",
+			"type": "pose",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/skeletonleft",
+			"type": "skeleton",
+			"skeleton": "/skeleton/hand/left",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/skeletonright",
+			"type": "skeleton",
+			"skeleton": "/skeleton/hand/right",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/out/vibrateleft",
+			"type": "vibration",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/out/vibrateright",
+			"type": "vibration",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/open_console",
+			"type": "boolean",
+			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/TriggerLeft",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/TriggerRight",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/HeadsetOn",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Jump",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MenuLeft",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MenuRight",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/LThumbStickClick",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MenuSholderL",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MenuSholderR",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ControllerLeftLowerButton",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/RThumbStickClick",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/LSideGrip",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/RSideGrip",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ControllerRightLowerButton",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MoveLeft_X,MoveLeft_Y X Y_axis2d",
+			"type": "vector2"
+		},
+		{
+			"name": "/actions/main/in/MoveRight_X,MoveRight_Y X Y_axis2d",
+			"type": "vector2"
+		},
+		{
+			"name": "/actions/main/in/SqueezeLeft axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/SqueezeRight axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/LThumbStickCapTouch axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/RThumbStickCapTouch axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/LTrigger axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/RTrigger axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/LGripAxis axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/RGripAxis axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/LTriggerTouch axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/RTriggerTouch axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/LTopButtonTouch axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/RTopButtonTouch axis",
+			"type": "vector1"
+		}
+	],
+	"action_sets": [
+		{
+			"name": "/actions/main",
+			"usage": "leftright"
+		}
+	],
+	"default_bindings": [
+		{
+			"controller_type": "gamepad",
+			"binding_url": "gamepad.json"
+		},
+		{
+			"controller_type": "holographic_controller",
+			"binding_url": "holographic_controller.json"
+		},
+		{
+			"controller_type": "indexhmd",
+			"binding_url": "indexhmd.json"
+		},
+		{
+			"controller_type": "index_hmd",
+			"binding_url": "index_hmd.json"
+		},
+		{
+			"controller_type": "knuckles",
+			"binding_url": "knuckles.json"
+		},
+		{
+			"controller_type": "oculus_touch",
+			"binding_url": "oculus_touch.json"
+		},
+		{
+			"controller_type": "rift",
+			"binding_url": "rift.json"
+		},
+		{
+			"controller_type": "vive",
+			"binding_url": "vive.json"
+		},
+		{
+			"controller_type": "vive_controller",
+			"binding_url": "vive_controller.json"
+		},
+		{
+			"controller_type": "vive_cosmos_controller",
+			"binding_url": "vive_cosmos_controller.json"
+		},
+		{
+			"controller_type": "vive_pro",
+			"binding_url": "vive_pro.json"
+		},
+		{
+			"controller_type": "vive_tracker",
+			"binding_url": "vive_tracker.json"
+		},
+		{
+			"controller_type": "vive_tracker_camera",
+			"binding_url": "vive_tracker_camera.json"
+		},
+		{
+			"controller_type": "vive_tracker_leffoot",
+			"binding_url": "vive_tracker_leffoot.json"
+		},
+		{
+			"controller_type": "vive_tracker_rightfoot",
+			"binding_url": "vive_tracker_rightfoot.json"
+		},
+		{
+			"controller_type": "vive_tracker_waist",
+			"binding_url": "vive_tracker_waist.json"
+		},
+		{
+			"controller_type": "knuckles",
+			"binding_url": "knuckles.json"
+		},
+		{
+			"controller_type": "vive_controller",
+			"binding_url": "vive_controller.json"
+		},
+		{
+			"controller_type": "vive_cosmos_controller",
+			"binding_url": "vive_cosmos_controller.json"
+		},
+		{
+			"controller_type": "oculus_touch",
+			"binding_url": "oculus_touch.json"
+		},
+		{
+			"controller_type": "holographic_controller",
+			"binding_url": "holographic_controller.json"
+		},
+		{
+			"controller_type": "indexhmd",
+			"binding_url": "indexhmd.json"
+		},
+		{
+			"controller_type": "vive",
+			"binding_url": "vive.json"
+		},
+		{
+			"controller_type": "vive_pro",
+			"binding_url": "vive_pro.json"
+		},
+		{
+			"controller_type": "rift",
+			"binding_url": "rift.json"
+		},
+		{
+			"controller_type": "vive_tracker_camera",
+			"binding_url": "vive_tracker_camera.json"
+		},
+		{
+			"controller_type": "gamepad",
+			"binding_url": "gamepad.json"
+		}
+	],
+	"localization": [
+		{
+			"language_tag": "en_us",
+			"/actions/main/in/controllerleft": "Left Controller [Pose]",
+			"/actions/main/in/controllerright": "Right Controller [Pose]",
+			"/actions/main/in/special1": "Special 1 [Tracker]",
+			"/actions/main/in/special2": "Special 2 [Tracker]",
+			"/actions/main/in/special3": "Special 3 [Tracker]",
+			"/actions/main/in/special4": "Special 4 [Tracker]",
+			"/actions/main/in/special5": "Special 5 [Tracker]",
+			"/actions/main/in/special6": "Special 6 [Tracker]",
+			"/actions/main/in/special7": "Special 7 [Tracker]",
+			"/actions/main/in/special8": "Special 8 [Tracker]",
+			"/actions/main/in/skeletonleft": "Skeleton (Left)",
+			"/actions/main/in/skeletonright": "Skeleton (Right)",
+			"/actions/main/out/vibrateleft": "Haptic (Left)",
+			"/actions/main/out/vibrateright": "Haptic (Right)",
+			"/actions/main/in/open_console": "Open Console",
+			"/actions/main/in/TriggerLeft": "TriggerLeft",
+			"/actions/main/in/TriggerRight": "TriggerRight",
+			"/actions/main/in/HeadsetOn": "HeadsetOn",
+			"/actions/main/in/Jump": "Jump",
+			"/actions/main/in/MenuLeft": "MenuLeft",
+			"/actions/main/in/MenuRight": "MenuRight",
+			"/actions/main/in/LThumbStickClick": "LThumbStickClick",
+			"/actions/main/in/MenuSholderL": "MenuSholderL",
+			"/actions/main/in/MenuSholderR": "MenuSholderR",
+			"/actions/main/in/ControllerLeftLowerButton": "ControllerLeftLowerButton",
+			"/actions/main/in/RThumbStickClick": "RThumbStickClick",
+			"/actions/main/in/LSideGrip": "LSideGrip",
+			"/actions/main/in/RSideGrip": "RSideGrip",
+			"/actions/main/in/ControllerRightLowerButton": "ControllerRightLowerButton",
+			"/actions/main/in/MoveLeft_X,MoveLeft_Y X Y_axis2d": "MoveLeft",
+			"/actions/main/in/MoveRight_X,MoveRight_Y X Y_axis2d": "MoveRight",
+			"/actions/main/in/SqueezeLeft axis": "SqueezeLeft",
+			"/actions/main/in/SqueezeRight axis": "SqueezeRight",
+			"/actions/main/in/LThumbStickCapTouch axis": "LThumbStickCapTouch",
+			"/actions/main/in/RThumbStickCapTouch axis": "RThumbStickCapTouch",
+			"/actions/main/in/LTrigger axis": "LTrigger",
+			"/actions/main/in/RTrigger axis": "RTrigger",
+			"/actions/main/in/LGripAxis axis": "LGripAxis",
+			"/actions/main/in/RGripAxis axis": "RGripAxis",
+			"/actions/main/in/LTriggerTouch axis": "LTriggerTouch",
+			"/actions/main/in/RTriggerTouch axis": "RTriggerTouch",
+			"/actions/main/in/LTopButtonTouch axis": "LTopButtonTouch",
+			"/actions/main/in/RTopButtonTouch axis": "RTopButtonTouch",
+			"/actions/main": "Main Game Actions"
+		}
+	]
+}

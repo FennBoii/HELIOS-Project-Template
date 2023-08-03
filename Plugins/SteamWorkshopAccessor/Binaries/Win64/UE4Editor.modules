@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"SteamGeneral": "UE4Editor-SteamGeneral.dll",
+		"SteamWorkshop": "UE4Editor-SteamWorkshop.dll"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"RuntimeAudioImporter": "UE4Editor-RuntimeAudioImporter.dll",
+		"RuntimeAudioImporterEditor": "UE4Editor-RuntimeAudioImporterEditor.dll"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"OpenInputPlugin": "UE4Editor-OpenInputPlugin.dll",
+		"OpenInputPluginEditor": "UE4Editor-OpenInputPluginEditor.dll"
+	}
+}

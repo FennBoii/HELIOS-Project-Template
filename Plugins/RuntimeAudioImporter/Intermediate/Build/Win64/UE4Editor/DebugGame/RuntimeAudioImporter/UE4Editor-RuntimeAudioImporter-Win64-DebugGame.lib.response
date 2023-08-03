@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RuntimeAudioImporter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE4_Source\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\DebugGame\RuntimeAudioImporter\Module.RuntimeAudioImporter.cpp.obj"
+"F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\DebugGame\RuntimeAudioImporter\Module.RuntimeAudioImporter.gen.cpp.obj"
+"F:\UE4_Source\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UE4_Projects\Helios\Helios\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\UE4Editor\DebugGame\RuntimeAudioImporter\UE4Editor-RuntimeAudioImporter-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_RuntimeAudioImporter

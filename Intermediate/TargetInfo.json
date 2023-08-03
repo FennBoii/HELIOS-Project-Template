@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Helios",
+			"Path": "Y:\\UnrealInstalls\\Projects\\templateForHelios - Copy\\Source\\Helios.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HeliosEditor",
+			"Path": "Y:\\UnrealInstalls\\Projects\\templateForHelios - Copy\\Source\\HeliosEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
