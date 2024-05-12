@@ -1,3 +1,5 @@
+Helios has died.. this template is obsolete
+
 # HELIOS Project Template
     I DID NOT MAKE THIS TEMPLATE PROJECT I JUST PUT IT HERE ON GITHUB
  This is a simple HELIOS unreal project template project, it contains:
